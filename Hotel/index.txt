@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bhukkhad</title> 
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<!-- Restaurant web -->
+
+
+<p><strong><h1>Bhukkad</h1></strong>
+<em><h5>Eat,sleep and repeat!</h5></em></p>
+
+
+
+<img src="bhukkad.jpe" height="150">
+<img src="keep calm.jpg" height="150">
+
+
+<br><hr>
+
+<div id="nav">
+<div id="nav_wrapper">
+<ul>
+	<li><a href="#">History</a></li>
+	<li><a href="#">About us</a></li>
+	<li><a href="menu.html">Menu</a></li>
+	<li><a href="contact.html">Contact us<img src="arrow.png" height="10"></a>
+		<ul>
+			<li><a href="#">youtube</a></li>
+			<li><a href="#">twitter</a></li>
+			<li><a href="#">Facebook</a></li>
+		</ul>
+	</li>
+	<li><a href="#">Home delivary</a></li>
+	<li><a href="#">Feedback</a></li>
+</ul>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<hr>
+<p><em>To know more about owner click below</em>
+<br><a href="https://www.facebook.com/nikita.sure" title="owner">  Nikita Sure<br>
+<img src="nikita.jpg" height="150"></a></p>
+</body>
+</html>
